@@ -1,0 +1,2 @@
+promebuilder==0.9.*
+pdoc3==0.8.*
